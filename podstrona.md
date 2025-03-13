@@ -1,5 +1,5 @@
 # Top 20 programming languages 
- ### Learn more about top 5 by clicking on them.
+### Learn more about top 5 by clicking on them.
 ### 1. [Python](Python.md)
 
 #### Logo:  ![Opis obrazka](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
