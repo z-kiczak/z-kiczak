@@ -23,8 +23,10 @@ I've been skiing since I was little and I enjoy martial arts such as muay thai a
 (although it's been some time since I was regularly training 🥶). Whenever I have the occasion I like to travel -
 this summer I was in Asia for the first time in my life and I absolutely loved it!
  
-**If you're having a look at my public repositories** : please note that I have only just joined GitHub; before,
-I was either using GitLab account provided by my faculty, or just working on my code locally with no version
+**If you're having a look at my public repositories** : please note that before joining GitHub, during first years of
+my studies, I was either using GitLab account provided by my faculty, or just working on my code locally with no version
 control. I've decided to move my past projects here, as single commits with no history; they may not be perfect,
 and many of them were not properly finished/polished, not properly documented either, but I believe it's valuable
-that I can follow my progress throughout the studies and learn from my past mistakes. ✨ Enjoy ✨
+that I can follow my progress throughout the studies and learn from my past mistakes. There are also many past projects
+that I have not moved here yet, but hopefully they will appear on my GitHub soon.
+✨ Enjoy ✨
